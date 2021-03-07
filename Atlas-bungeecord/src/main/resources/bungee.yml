@@ -1,0 +1,4 @@
+name: Atlas
+version: ${project.version}
+main: org.mothmc.atlas.AtlasBungeeCord
+description: MothMC's Core, providing key features with bungeecord.

@@ -1,0 +1,5 @@
+name: Atlas
+version: ${project.version}
+main: org.moth.atlas.Atlas
+api-version: 1.16
+description: MothMC's Core, providing key features with spigot.
